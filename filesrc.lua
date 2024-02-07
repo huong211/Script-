@@ -2370,12 +2370,12 @@ local CamShake = require(game.ReplicatedStorage.Util.CameraShaker)
 CamShake:Stop()
 
     HttpService = game:GetService("HttpService")
-    local i = "tên cần đổi"
+    local i = "banana hub X ccjz4989"
     local j = "-BloxFruit.json"
     local l = game.Players.LocalPlayer.Name .. j
     if Adel then
         HttpService = game:GetService("HttpService")
-        local i = "tên cần đổi"
+        local i = "banana hub X ccjz4989"
         local j = "-BloxFruit.json"
         local l = game.Players.LocalPlayer.Name .. j
     end
@@ -2541,19 +2541,19 @@ spawn(function()
 end)
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "tên cần đổi", HidePremium = false, IntroText = "tên cần đổi⚜️", SaveConfig = true, ConfigFolder = "NightHub"})
+local Window = OrionLib:MakeWindow({Name = "banana hub X ccjz4989", HidePremium = false, IntroText = "banana hub X ccjz4989⚜️", SaveConfig = true, ConfigFolder = "NightHub"})
 
 
 
 OrionLib:MakeNotification({
-    Name = "tên cần đổi",
+    Name = "banana hub X ccjz4989",
     Content = "Please Wait loading script...,Do not enable any function",
     Image = "rbxassetid://8192162908",
     Time = 5
 })
 wait(3)
 OrionLib:MakeNotification({
-    Name = "tên cần đổi",
+    Name = "banana hub X ccjz4989",
     Content = "đợi hub load config rồi mới sài nha",
     Image = "rbxassetid://8192162908",
     Time = 10
@@ -2651,7 +2651,7 @@ local Section = W:AddSection({
 })
 
 
-W:AddLabel("tên cần đổi")
+W:AddLabel("banana hub X ccjz4989")
 
 local Section = W:AddSection({
     Name = "Update"
@@ -2660,7 +2660,7 @@ local Section = W:AddSection({
 
 W:AddLabel("PHÁT TRIỂN BỞI")
 W:AddLabel("banana hub X ccjz4989SCRIPT")
-W:AddLabel("Discordtên cần đổi")
+W:AddLabel("Discordbanana hub X ccjz4989")
 local Section = W:AddSection({
     Name = "Status"
 })
@@ -8386,13 +8386,13 @@ pcall(function()
         if _G.AutoEliteHunter then
             if game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi(Noitification)",
+                    Name = "banana hub X ccjz4989(Noitification)",
                     Content = "[EN] : Please cancel the farrm level quest (if any)",
                     Image = "rbxassetid://8192162908",
                     Time = 9
                 })
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi(Noitification)",
+                    Name = "banana hub X ccjz4989(Noitification)",
                     Content = "[VN] : Làm ơn hủy nhiệm vụ farrm level(nếu có)",
                     Image = "rbxassetid://8192162908",
                     Time = 9
@@ -8710,7 +8710,7 @@ spawn(function()
         if Mybeli <= 2500000 or MyFragment <= 5000 then
             wait(2.0)
             OrionLib:MakeNotification({
-                Name = "tên cần đổi",
+                Name = "banana hub X ccjz4989",
                 Content = "You not have beli or fragment!",
                 Image = "rbxassetid://8192162908",
                 Time = 5
@@ -11332,7 +11332,7 @@ spawn(function()
             if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" or game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
                 wait(2.0)
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi",
+                    Name = "banana hub X ccjz4989",
                     Content = "Turn Off Hop Find Moon Please",
                     Image = "rbxassetid://8192162908",
                     Time = 5
@@ -11340,7 +11340,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709143733" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi",
+                    Name = "banana hub X ccjz4989",
                     Content = "Hop Server",
                     Image = "rbxassetid://8192162908",
                     Time = 5
@@ -11348,7 +11348,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi",
+                    Name = "banana hub X ccjz4989",
                     Content = "Hop Server",
                     Image = "rbxassetid://8192162908",
                     Time = 5
@@ -11356,7 +11356,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi",
+                    Name = "banana hub X ccjz4989",
                     Content = "Hop Server",
                     Image = "rbxassetid://8192162908",
                     Time = 5
@@ -11369,7 +11369,7 @@ spawn(function()
     end)
 
 OrionLib:MakeNotification({
-        Name = "tên cần đổi",
+        Name = "banana hub X ccjz4989",
         Content = "Loading script complete!, You can now enable the function!",
         Image = "rbxassetid://8192162908",
         Time = 5
@@ -11402,7 +11402,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "tên cần đổi",
+    Name = "banana hub X ccjz4989",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://8192162908",
     Time = 5
